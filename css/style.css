@@ -1,0 +1,52 @@
+.container{
+    background: url(../img/d53776b3b010f6c92bdf3e0d7946b938aabd8c08.webp);
+    width: 100vw;
+    height: 1000px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block-1{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.block-2{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.block-3{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+.block-4{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
+
+.block-5{
+    position: fixed;
+    top: 40vh;
+    right: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
